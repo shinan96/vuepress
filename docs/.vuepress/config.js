@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Hello shinan',
   description: 'just paly',
-  base: '/',
+  // base: '/',
   markdown: {
     lineNumbers: true,
   },
